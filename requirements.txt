@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-ollama
+langchain-text-splitters
+langchain-chroma
+langchain-arxiv-retriever
+python-dotenv
+ipykernel
+pypdf
+docling
+langchain-community
